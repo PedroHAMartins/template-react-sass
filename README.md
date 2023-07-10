@@ -13,8 +13,11 @@ Also has a reset.sass file included
 3. Clone this repository with
    `git clone https://github.com/PedroHAMartins/template-react-sass.git`
 
-4. Start the project with
-  `npm start`
+4. Install all the dependencies
+  `npm install`
+
+5. Start the project
+   `npm start`
 
 
 
