@@ -5,13 +5,15 @@ Also has a reset.sass file included
 
 ## How to use
 
-1. Open your terminal and type the following command
-   `npx create-react-app FOLDER_NAME --template https://github.com/PedroHAMartins/template-react-sass`
+1. Create a folder inside your desired directory
 
-2. Enter the folder with the following command
-   `cd FOLDER_NAME`
+2. Type the command to get inside the folder
+   `cd FOLDERNAME`
 
-3. Start the project with
+3. Clone this repository with
+   `git clone https://github.com/PedroHAMartins/template-react-sass.git`
+
+4. Start the project with
   `npm start`
 
 
